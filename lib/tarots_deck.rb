@@ -1,0 +1,2 @@
+class TarotsDeck
+end
