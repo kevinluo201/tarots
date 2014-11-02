@@ -1,4 +1,4 @@
-require '../test_helper'
+require File.join('..', 'test_helper')
 
 class StoreTest < Minitest::Test
   def test_truth
