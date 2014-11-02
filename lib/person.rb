@@ -12,7 +12,11 @@ class Person
 		@name = name
 	end
 	
-	def set_name(name)
-		@name = name
+	def set_birthday(birthday)
+		@birthday = birthday
+	end
+
+	def set_gender(gender)
+		@gender = gender
 	end
 end
